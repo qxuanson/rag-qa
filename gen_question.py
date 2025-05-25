@@ -8,8 +8,7 @@ from datetime import datetime
 import re
 
 # Configure Gemini Pro API
-GEMINI_API_KEY = "AIzaSyBEne5rhWtmAHmDY6_xMxju2bt-0ByTym4"
-client = genai.Client(api_key=GEMINI_API_KEY)
+client = genai.Client(api_key=GOOGLE_API_KEY)
 
 def read_csv_files(*paths: str) -> List[pd.DataFrame]:
     """Read CSV files from multiple paths (directories or files).
