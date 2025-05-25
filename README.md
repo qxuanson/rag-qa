@@ -1,2 +1,2 @@
-# rag-qa
-RAG QA UET-VNU DOMAIN
+# RAG QA ASSIGNMENT 2
+
