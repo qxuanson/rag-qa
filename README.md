@@ -17,7 +17,7 @@
     NEBIUS_API_KEY="YOUR_NEBIUS_API_KEY"
     ```
 
-4.  **Chạy Ứng dụng:**
+3.  **Chạy Ứng dụng:**
     ```bash
     rag.ipynb 
     ```
